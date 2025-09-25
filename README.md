@@ -39,7 +39,7 @@ Os dados são persistidos em um banco de dados em memória (H2 Database) para fa
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/crud-backend-springboot.git](https://github.com/seu-usuario/crud-backend-springboot.git)
+    git clone [https://github.com/Jntsss/crud-backend-springboot.git](https://github.com/Jntsss/crud-backend-springboot.git)
     ```
 
 2.  **Acesse a pasta do projeto:**
@@ -58,4 +58,4 @@ Os dados são persistidos em um banco de dados em memória (H2 Database) para fa
 
 ## Autor
 
-* **[Seu Nome Completo]**
+* **Jônatas de Souza Santos**
